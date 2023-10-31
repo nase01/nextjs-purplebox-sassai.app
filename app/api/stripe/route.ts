@@ -41,7 +41,7 @@ export async function GET() {
           price_data: {
             currency: "USD",
             product_data: {
-              name: "AIMatrix Pro",
+              name: "Purple Box Pro",
               description: "Unlimited AI Generations"
             },
             unit_amount: 2000,
